@@ -1,5 +1,29 @@
 {
     "cSpell.words": [
-        "csvs"
+        "addedfile",
+        "addedfiles",
+        "canceledmultiple",
+        "completemultiple",
+        "csvs",
+        "dropzonejs",
+        "dzuuid",
+        "errormultiple",
+        "Filesize",
+        "finalise",
+        "initialised",
+        "kibibyte",
+        "kibibytes",
+        "Matias",
+        "maxfilesexceeded",
+        "maxfilesreached",
+        "mebibytes",
+        "Meno",
+        "processingmultiple",
+        "queuecomplete",
+        "removedfile",
+        "sendingmultiple",
+        "successmultiple",
+        "totaluploadprogress",
+        "uploadprogress"
     ]
 }
